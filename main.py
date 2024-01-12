@@ -4,7 +4,7 @@ import os
 
 api_id = '21934531'
 api_hash = '09913d693f06928ddfce1d1ec04f5f2c'
-photos_directory = 's/'
+photos_directory = 'yes/'
 
 app = Client("my_account", api_id=api_id, api_hash=api_hash)
 
